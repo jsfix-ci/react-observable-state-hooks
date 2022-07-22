@@ -37,7 +37,7 @@
   },
   "dependencies": {
     "@reismannnr2/observable-state": "^0.1.2",
-    "rxjs": "^6.6.3"
+    "rxjs": "^7.5.6"
   },
   "peerDependencies": {
     "react": "^16.13.1"
